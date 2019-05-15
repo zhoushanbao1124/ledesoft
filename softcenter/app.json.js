@@ -317,17 +317,6 @@
             "version": "0.5"
         }, 
         {
-            "build_date": "2019-03-09_20:18:10", 
-            "changelog": "支持2.30", 
-            "description": "轻松科学上网~", 
-            "home_url": "Module_koolss.asp", 
-            "md5": "898cbc05fd75908d4a99d7320bcca000", 
-            "name": "koolss", 
-            "tar_url": "koolss/koolss.tar.gz", 
-            "title": "科学上网插件", 
-            "version": "2.2.2"
-        }, 
-        {
             "build_date": "2018-11-11_15:42:40", 
             "changelog": "更新ONMP", 
             "description": "Entware环境和扩展", 
@@ -659,7 +648,7 @@
         }
     ], 
     "home_url": "https://raw.githubusercontent.com/koolshare/koolshare.github.io/master", 
-    "md5": "0c5070887ad7c7e042214dfc005ac208", 
+    "md5": "8e4c9f68aa3094b036197fadb613542e", 
     "tar_url": "softcenter/softcenter.tar.gz", 
     "version": "0.3.8"
 }
